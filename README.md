@@ -1,0 +1,2 @@
+# nodeForMyMovieApp
+egg node
